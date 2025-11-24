@@ -9,6 +9,7 @@ using System.Configuration;
 using System.Linq.Expressions;
 using Common;
 using System.Diagnostics;
+using System.Runtime.Remoting.Metadata.W3cXsd2001;
 
 namespace Data_Access_Layer
 {
@@ -34,9 +35,9 @@ namespace Data_Access_Layer
 
                     var Result = await cmd.ExecuteScalarAsync();
                     
-                        if (Result != null || Result != DBNull.Value)
+                        if (Result != null && Result != DBNull.Value)
                         {
-                            int otpId = Convert.ToInt32(Result);
+                           OTPID = Convert.ToInt32(Result);
                         }
                     
                 }

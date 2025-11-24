@@ -463,7 +463,7 @@ namespace Data_Access_Layer
 
         public static bool DeleteClient(int ID)
         {
-            short Return = -1;
+            int Return = -1;
 
             try
             {             
@@ -485,7 +485,7 @@ namespace Data_Access_Layer
                     Connection.Open();
                     cmd.ExecuteNonQuery();
                     if (ReturnValue.Value != DBNull.Value)
-                        Return = (short)ReturnValue.Value;
+                        Return = (int)ReturnValue.Value;
 
                 }
             }

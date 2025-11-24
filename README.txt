@@ -14,6 +14,7 @@ The system provides client and account management, currency exchange, and integr
 - 📝 Event Logger for tracking system activities  
 - 📊 Detailed reports for transactions and activities  
 - 🔄 DTOs with Mapster for object mapping between layers  
+- 🕒 SQL Server Agent Jobs: AddMonthlyInterestJob, cleanOldOTP, Monthly Fee Deduction, Update Expired Cards, syspolicy_purge_history
 
 ## 🛠️ Tech Stack  
 - **Language**: C# (.NET)  
@@ -34,7 +35,7 @@ The system provides client and account management, currency exchange, and integr
 ## 🚀 How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/username/BankingManagementSystem.git
+   git clone https://github.com/Amr982023/Bank-Managment-System-Repo.git
 
 2. Open the solution file in /MyBankSystemManagmentProject in Visual Studio.  
 

@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Business_Layer;
+using Common;
 
 namespace MyBankSystemManagmentProject
 {
@@ -32,7 +33,7 @@ namespace MyBankSystemManagmentProject
             clsUser User = clsUser.Find(_UserID);
             if (User != null)
             {
-                User.Password = txt_NewPassword.Text;
+                User.Password = clsSecurity.HashPassword(txt_NewPassword.Text);
                 if (User.Save())
                 {
                    if( MessageBox.Show("Password Has been Reset Successfully", "Reset",MessageBoxButtons.OK)== DialogResult.OK)

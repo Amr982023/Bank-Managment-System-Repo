@@ -56,8 +56,10 @@
             // 
             this.txt_OTP.Animated = true;
             this.txt_OTP.AutoRoundedCorners = true;
+            this.txt_OTP.AutoValidate = System.Windows.Forms.AutoValidate.Disable;
             this.txt_OTP.BorderRadius = 22;
             this.txt_OTP.BorderThickness = 0;
+            this.txt_OTP.CausesValidation = false;
             this.txt_OTP.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.txt_OTP.DefaultText = "";
             this.txt_OTP.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));

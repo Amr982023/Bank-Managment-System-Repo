@@ -396,8 +396,7 @@ namespace Data_Access_Layer
                 catch (Exception ex)
                 {
                     Common.clsEventLogger.Event_Logger(EventLogEntryType.Error, ex.Message, "Application");
-                    clsErrorEvents.onError(ex.Message);
-                    Msg.Invoke($"Error : {ex.Message}");
+                    clsErrorEvents.onError(ex.Message); 
                     return -1;
                 }
             }

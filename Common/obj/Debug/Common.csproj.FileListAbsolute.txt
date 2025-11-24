@@ -16,3 +16,12 @@ D:\bank modify\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 D:\bank modify\Common\obj\Debug\Common.csproj.Up2Date
 D:\bank modify\Common\obj\Debug\Common.dll
 D:\bank modify\Common\obj\Debug\Common.pdb
+D:\bank Managment System Project\Common\bin\Debug\Common.dll
+D:\bank Managment System Project\Common\bin\Debug\Common.pdb
+D:\bank Managment System Project\Common\bin\Debug\Newtonsoft.Json.dll
+D:\bank Managment System Project\Common\bin\Debug\Newtonsoft.Json.xml
+D:\bank Managment System Project\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\bank Managment System Project\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\bank Managment System Project\Common\obj\Debug\Common.csproj.Up2Date
+D:\bank Managment System Project\Common\obj\Debug\Common.dll
+D:\bank Managment System Project\Common\obj\Debug\Common.pdb
