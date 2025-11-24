@@ -1,0 +1,405 @@
+﻿namespace MyBankSystemManagmentProject
+{
+    partial class ctrUpdateClientSub
+    {
+        /// <summary> 
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary> 
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Component Designer generated code
+
+        /// <summary> 
+        /// Required method for Designer support - do not modify 
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            this.Txt_Password_Update = new Guna.UI2.WinForms.Guna2TextBox();
+            this.txt_AccountNumber_Update = new Guna.UI2.WinForms.Guna2TextBox();
+            this.txt_Balance_Update = new Guna.UI2.WinForms.Guna2TextBox();
+            this.txt_Phone_Update = new Guna.UI2.WinForms.Guna2TextBox();
+            this.txt_Email_Update = new Guna.UI2.WinForms.Guna2TextBox();
+            this.txt_LastName_Update = new Guna.UI2.WinForms.Guna2TextBox();
+            this.txt_FirstName_Update = new Guna.UI2.WinForms.Guna2TextBox();
+            this.btn_Back_AddNewClient = new Guna.UI2.WinForms.Guna2Button();
+            this.btn_Save_AddNewClient = new Guna.UI2.WinForms.Guna2Button();
+            this.ll_ChangePhoto = new System.Windows.Forms.LinkLabel();
+            this.ll_RemovePhoto = new System.Windows.Forms.LinkLabel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.lbl_UpdateClients = new System.Windows.Forms.Label();
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
+            this.panel1.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // Txt_Password_Update
+            // 
+            this.Txt_Password_Update.AutoRoundedCorners = true;
+            this.Txt_Password_Update.BorderRadius = 26;
+            this.Txt_Password_Update.BorderThickness = 0;
+            this.Txt_Password_Update.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.Txt_Password_Update.DefaultText = "";
+            this.Txt_Password_Update.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.Txt_Password_Update.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.Txt_Password_Update.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_Password_Update.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.Txt_Password_Update.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.Txt_Password_Update.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_Password_Update.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Txt_Password_Update.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(24)))), ((int)(((byte)(29)))));
+            this.Txt_Password_Update.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Txt_Password_Update.IconLeft = global::MyBankSystemManagmentProject.Properties.Resources.Password;
+            this.Txt_Password_Update.Location = new System.Drawing.Point(302, 331);
+            this.Txt_Password_Update.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Txt_Password_Update.Name = "Txt_Password_Update";
+            this.Txt_Password_Update.PlaceholderForeColor = System.Drawing.Color.Gray;
+            this.Txt_Password_Update.PlaceholderText = "   Password";
+            this.Txt_Password_Update.SelectedText = "";
+            this.Txt_Password_Update.Size = new System.Drawing.Size(262, 55);
+            this.Txt_Password_Update.TabIndex = 76;
+            // 
+            // txt_AccountNumber_Update
+            // 
+            this.txt_AccountNumber_Update.AutoRoundedCorners = true;
+            this.txt_AccountNumber_Update.BorderRadius = 24;
+            this.txt_AccountNumber_Update.BorderThickness = 0;
+            this.txt_AccountNumber_Update.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txt_AccountNumber_Update.DefaultText = "";
+            this.txt_AccountNumber_Update.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.txt_AccountNumber_Update.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.txt_AccountNumber_Update.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txt_AccountNumber_Update.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txt_AccountNumber_Update.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.txt_AccountNumber_Update.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txt_AccountNumber_Update.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_AccountNumber_Update.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(24)))), ((int)(((byte)(29)))));
+            this.txt_AccountNumber_Update.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txt_AccountNumber_Update.IconLeft = global::MyBankSystemManagmentProject.Properties.Resources.user;
+            this.txt_AccountNumber_Update.Location = new System.Drawing.Point(22, 331);
+            this.txt_AccountNumber_Update.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txt_AccountNumber_Update.Name = "txt_AccountNumber_Update";
+            this.txt_AccountNumber_Update.PlaceholderForeColor = System.Drawing.Color.Gray;
+            this.txt_AccountNumber_Update.PlaceholderText = "   Account Number";
+            this.txt_AccountNumber_Update.SelectedText = "";
+            this.txt_AccountNumber_Update.Size = new System.Drawing.Size(262, 51);
+            this.txt_AccountNumber_Update.TabIndex = 75;
+            // 
+            // txt_Balance_Update
+            // 
+            this.txt_Balance_Update.AutoRoundedCorners = true;
+            this.txt_Balance_Update.BorderRadius = 26;
+            this.txt_Balance_Update.BorderThickness = 0;
+            this.txt_Balance_Update.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txt_Balance_Update.DefaultText = "";
+            this.txt_Balance_Update.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.txt_Balance_Update.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.txt_Balance_Update.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txt_Balance_Update.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txt_Balance_Update.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.txt_Balance_Update.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txt_Balance_Update.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_Balance_Update.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(24)))), ((int)(((byte)(29)))));
+            this.txt_Balance_Update.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txt_Balance_Update.IconLeft = global::MyBankSystemManagmentProject.Properties.Resources.money_100;
+            this.txt_Balance_Update.Location = new System.Drawing.Point(313, 256);
+            this.txt_Balance_Update.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txt_Balance_Update.Name = "txt_Balance_Update";
+            this.txt_Balance_Update.PlaceholderForeColor = System.Drawing.Color.Gray;
+            this.txt_Balance_Update.PlaceholderText = "   Balance";
+            this.txt_Balance_Update.SelectedText = "";
+            this.txt_Balance_Update.Size = new System.Drawing.Size(262, 55);
+            this.txt_Balance_Update.TabIndex = 74;
+            this.txt_Balance_Update.Validating += new System.ComponentModel.CancelEventHandler(this.txt_Balance_Update_Validating);
+            // 
+            // txt_Phone_Update
+            // 
+            this.txt_Phone_Update.AutoRoundedCorners = true;
+            this.txt_Phone_Update.BorderRadius = 26;
+            this.txt_Phone_Update.BorderThickness = 0;
+            this.txt_Phone_Update.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txt_Phone_Update.DefaultText = "";
+            this.txt_Phone_Update.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.txt_Phone_Update.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.txt_Phone_Update.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txt_Phone_Update.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txt_Phone_Update.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.txt_Phone_Update.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txt_Phone_Update.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_Phone_Update.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(24)))), ((int)(((byte)(29)))));
+            this.txt_Phone_Update.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txt_Phone_Update.IconLeft = global::MyBankSystemManagmentProject.Properties.Resources.phone_100;
+            this.txt_Phone_Update.Location = new System.Drawing.Point(22, 256);
+            this.txt_Phone_Update.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txt_Phone_Update.Name = "txt_Phone_Update";
+            this.txt_Phone_Update.PlaceholderForeColor = System.Drawing.Color.Gray;
+            this.txt_Phone_Update.PlaceholderText = "   Phone";
+            this.txt_Phone_Update.SelectedText = "";
+            this.txt_Phone_Update.Size = new System.Drawing.Size(262, 55);
+            this.txt_Phone_Update.TabIndex = 73;
+            this.txt_Phone_Update.Validating += new System.ComponentModel.CancelEventHandler(this.txt_Phone_Update_Validating);
+            // 
+            // txt_Email_Update
+            // 
+            this.txt_Email_Update.AutoRoundedCorners = true;
+            this.txt_Email_Update.BorderRadius = 26;
+            this.txt_Email_Update.BorderThickness = 0;
+            this.txt_Email_Update.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txt_Email_Update.DefaultText = "";
+            this.txt_Email_Update.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.txt_Email_Update.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.txt_Email_Update.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txt_Email_Update.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txt_Email_Update.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.txt_Email_Update.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txt_Email_Update.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_Email_Update.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(24)))), ((int)(((byte)(29)))));
+            this.txt_Email_Update.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txt_Email_Update.IconLeft = global::MyBankSystemManagmentProject.Properties.Resources.Email;
+            this.txt_Email_Update.Location = new System.Drawing.Point(22, 175);
+            this.txt_Email_Update.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txt_Email_Update.Name = "txt_Email_Update";
+            this.txt_Email_Update.PlaceholderForeColor = System.Drawing.Color.Gray;
+            this.txt_Email_Update.PlaceholderText = "   Email";
+            this.txt_Email_Update.SelectedText = "";
+            this.txt_Email_Update.Size = new System.Drawing.Size(542, 55);
+            this.txt_Email_Update.TabIndex = 72;
+            this.txt_Email_Update.Validating += new System.ComponentModel.CancelEventHandler(this.txt_Email_Update_Validating);
+            // 
+            // txt_LastName_Update
+            // 
+            this.txt_LastName_Update.AutoRoundedCorners = true;
+            this.txt_LastName_Update.BorderRadius = 28;
+            this.txt_LastName_Update.BorderThickness = 0;
+            this.txt_LastName_Update.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txt_LastName_Update.DefaultText = "";
+            this.txt_LastName_Update.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.txt_LastName_Update.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.txt_LastName_Update.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txt_LastName_Update.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txt_LastName_Update.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.txt_LastName_Update.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txt_LastName_Update.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_LastName_Update.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(24)))), ((int)(((byte)(29)))));
+            this.txt_LastName_Update.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txt_LastName_Update.IconLeft = global::MyBankSystemManagmentProject.Properties.Resources.name_tag_50;
+            this.txt_LastName_Update.Location = new System.Drawing.Point(302, 98);
+            this.txt_LastName_Update.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txt_LastName_Update.Name = "txt_LastName_Update";
+            this.txt_LastName_Update.PlaceholderForeColor = System.Drawing.Color.Gray;
+            this.txt_LastName_Update.PlaceholderText = "   Last Name";
+            this.txt_LastName_Update.SelectedText = "";
+            this.txt_LastName_Update.Size = new System.Drawing.Size(262, 58);
+            this.txt_LastName_Update.TabIndex = 71;
+            this.txt_LastName_Update.Validating += new System.ComponentModel.CancelEventHandler(this.txt_LastName_Update_Validating);
+            // 
+            // txt_FirstName_Update
+            // 
+            this.txt_FirstName_Update.AutoRoundedCorners = true;
+            this.txt_FirstName_Update.BorderRadius = 26;
+            this.txt_FirstName_Update.BorderThickness = 0;
+            this.txt_FirstName_Update.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txt_FirstName_Update.DefaultText = "";
+            this.txt_FirstName_Update.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.txt_FirstName_Update.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.txt_FirstName_Update.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txt_FirstName_Update.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txt_FirstName_Update.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.txt_FirstName_Update.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txt_FirstName_Update.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_FirstName_Update.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(24)))), ((int)(((byte)(29)))));
+            this.txt_FirstName_Update.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txt_FirstName_Update.IconLeft = global::MyBankSystemManagmentProject.Properties.Resources.name_tag_50;
+            this.txt_FirstName_Update.Location = new System.Drawing.Point(22, 98);
+            this.txt_FirstName_Update.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txt_FirstName_Update.Name = "txt_FirstName_Update";
+            this.txt_FirstName_Update.PlaceholderForeColor = System.Drawing.Color.Gray;
+            this.txt_FirstName_Update.PlaceholderText = "   First Name";
+            this.txt_FirstName_Update.SelectedText = "";
+            this.txt_FirstName_Update.Size = new System.Drawing.Size(262, 55);
+            this.txt_FirstName_Update.TabIndex = 70;
+            this.txt_FirstName_Update.Validating += new System.ComponentModel.CancelEventHandler(this.txt_FirstName_Update_Validating);
+            // 
+            // btn_Back_AddNewClient
+            // 
+            this.btn_Back_AddNewClient.AutoRoundedCorners = true;
+            this.btn_Back_AddNewClient.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_Back_AddNewClient.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btn_Back_AddNewClient.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btn_Back_AddNewClient.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btn_Back_AddNewClient.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(24)))), ((int)(((byte)(29)))));
+            this.btn_Back_AddNewClient.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_Back_AddNewClient.ForeColor = System.Drawing.Color.White;
+            this.btn_Back_AddNewClient.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(40)))), ((int)(((byte)(48)))));
+            this.btn_Back_AddNewClient.Image = global::MyBankSystemManagmentProject.Properties.Resources.back3_100;
+            this.btn_Back_AddNewClient.Location = new System.Drawing.Point(51, 430);
+            this.btn_Back_AddNewClient.Name = "btn_Back_AddNewClient";
+            this.btn_Back_AddNewClient.Size = new System.Drawing.Size(180, 45);
+            this.btn_Back_AddNewClient.TabIndex = 69;
+            this.btn_Back_AddNewClient.Text = "Back";
+            this.btn_Back_AddNewClient.Click += new System.EventHandler(this.btn_Back_AddNewClient_Click);
+            // 
+            // btn_Save_AddNewClient
+            // 
+            this.btn_Save_AddNewClient.AutoRoundedCorners = true;
+            this.btn_Save_AddNewClient.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_Save_AddNewClient.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btn_Save_AddNewClient.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btn_Save_AddNewClient.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btn_Save_AddNewClient.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(24)))), ((int)(((byte)(29)))));
+            this.btn_Save_AddNewClient.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_Save_AddNewClient.ForeColor = System.Drawing.Color.White;
+            this.btn_Save_AddNewClient.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(40)))), ((int)(((byte)(48)))));
+            this.btn_Save_AddNewClient.Location = new System.Drawing.Point(334, 430);
+            this.btn_Save_AddNewClient.Name = "btn_Save_AddNewClient";
+            this.btn_Save_AddNewClient.Size = new System.Drawing.Size(180, 45);
+            this.btn_Save_AddNewClient.TabIndex = 68;
+            this.btn_Save_AddNewClient.Text = "Save";
+            this.btn_Save_AddNewClient.Click += new System.EventHandler(this.btn_Save_AddNewClient_Click);
+            // 
+            // ll_ChangePhoto
+            // 
+            this.ll_ChangePhoto.AutoSize = true;
+            this.ll_ChangePhoto.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ll_ChangePhoto.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(24)))), ((int)(((byte)(29)))));
+            this.ll_ChangePhoto.Location = new System.Drawing.Point(619, 358);
+            this.ll_ChangePhoto.Name = "ll_ChangePhoto";
+            this.ll_ChangePhoto.Size = new System.Drawing.Size(140, 24);
+            this.ll_ChangePhoto.TabIndex = 67;
+            this.ll_ChangePhoto.TabStop = true;
+            this.ll_ChangePhoto.Text = "Change Picture";
+            this.ll_ChangePhoto.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.ll_ChangePhoto_LinkClicked);
+            // 
+            // ll_RemovePhoto
+            // 
+            this.ll_RemovePhoto.AutoSize = true;
+            this.ll_RemovePhoto.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ll_RemovePhoto.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(24)))), ((int)(((byte)(29)))));
+            this.ll_RemovePhoto.Location = new System.Drawing.Point(790, 358);
+            this.ll_RemovePhoto.Name = "ll_RemovePhoto";
+            this.ll_RemovePhoto.Size = new System.Drawing.Size(144, 24);
+            this.ll_RemovePhoto.TabIndex = 66;
+            this.ll_RemovePhoto.TabStop = true;
+            this.ll_RemovePhoto.Text = "Remove Picture";
+            this.ll_RemovePhoto.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.ll_RemovePhoto_LinkClicked);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.pictureBox1.Location = new System.Drawing.Point(611, 19);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(323, 304);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 65;
+            this.pictureBox1.TabStop = false;
+            // 
+            // lbl_UpdateClients
+            // 
+            this.lbl_UpdateClients.AutoSize = true;
+            this.lbl_UpdateClients.Font = new System.Drawing.Font("Segoe UI", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_UpdateClients.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(24)))), ((int)(((byte)(29)))));
+            this.lbl_UpdateClients.Location = new System.Drawing.Point(336, 20);
+            this.lbl_UpdateClients.Name = "lbl_UpdateClients";
+            this.lbl_UpdateClients.Size = new System.Drawing.Size(450, 86);
+            this.lbl_UpdateClients.TabIndex = 57;
+            this.lbl_UpdateClients.Text = "Update Client";
+            // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileName = "openFileDialog1";
+            // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.White;
+            this.panel1.Controls.Add(this.label1);
+            this.panel1.Controls.Add(this.btn_Back_AddNewClient);
+            this.panel1.Controls.Add(this.Txt_Password_Update);
+            this.panel1.Controls.Add(this.btn_Save_AddNewClient);
+            this.panel1.Controls.Add(this.txt_AccountNumber_Update);
+            this.panel1.Controls.Add(this.txt_Balance_Update);
+            this.panel1.Controls.Add(this.txt_Phone_Update);
+            this.panel1.Controls.Add(this.txt_Email_Update);
+            this.panel1.Controls.Add(this.txt_LastName_Update);
+            this.panel1.Controls.Add(this.txt_FirstName_Update);
+            this.panel1.Controls.Add(this.ll_ChangePhoto);
+            this.panel1.Controls.Add(this.ll_RemovePhoto);
+            this.panel1.Controls.Add(this.pictureBox1);
+            this.panel1.Location = new System.Drawing.Point(222, 138);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(975, 494);
+            this.panel1.TabIndex = 77;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(23)))), ((int)(((byte)(24)))), ((int)(((byte)(29)))));
+            this.label1.Location = new System.Drawing.Point(16, 19);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(157, 33);
+            this.label1.TabIndex = 78;
+            this.label1.Text = "Client Info";
+            // 
+            // ctrUpdateClientSub
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.lbl_UpdateClients);
+            this.Name = "ctrUpdateClientSub";
+            this.Size = new System.Drawing.Size(1451, 750);
+            this.Load += new System.EventHandler(this.ctrUpdateClientSub_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private Guna.UI2.WinForms.Guna2TextBox Txt_Password_Update;
+        private Guna.UI2.WinForms.Guna2TextBox txt_AccountNumber_Update;
+        private Guna.UI2.WinForms.Guna2TextBox txt_Balance_Update;
+        private Guna.UI2.WinForms.Guna2TextBox txt_Phone_Update;
+        private Guna.UI2.WinForms.Guna2TextBox txt_Email_Update;
+        private Guna.UI2.WinForms.Guna2TextBox txt_LastName_Update;
+        private Guna.UI2.WinForms.Guna2TextBox txt_FirstName_Update;
+        private Guna.UI2.WinForms.Guna2Button btn_Back_AddNewClient;
+        private Guna.UI2.WinForms.Guna2Button btn_Save_AddNewClient;
+        private System.Windows.Forms.LinkLabel ll_ChangePhoto;
+        private System.Windows.Forms.LinkLabel ll_RemovePhoto;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label lbl_UpdateClients;
+        private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Label label1;
+    }
+}

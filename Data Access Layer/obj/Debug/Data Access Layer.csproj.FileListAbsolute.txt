@@ -1,0 +1,103 @@
+D:\cyber security\fundamentals\back end Desktop\Projects\Data Access Layer\bin\Debug\Data Access Layer.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\Data Access Layer\bin\Debug\Data Access Layer.pdb
+D:\cyber security\fundamentals\back end Desktop\Projects\Data Access Layer\obj\Debug\Data Access Layer.csproj.AssemblyReference.cache
+D:\cyber security\fundamentals\back end Desktop\Projects\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+D:\cyber security\fundamentals\back end Desktop\Projects\Data Access Layer\obj\Debug\Data Access Layer.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\Data Access Layer\obj\Debug\Data Access Layer.pdb
+D:\cyber security\fundamentals\back end Desktop\Projects\Data Access Layer\bin\Debug\Common.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\Data Access Layer\bin\Debug\Common.pdb
+D:\cyber security\fundamentals\back end Desktop\Projects\Data Access Layer\obj\Debug\Data Acc.F8789B99.Up2Date
+D:\cyber security\fundamentals\back end Desktop\Projects\Data Access Layer\bin\Debug\Newtonsoft.Json.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\Data Access Layer\bin\Debug\Newtonsoft.Json.xml
+D:\bank modify\Data Access Layer\bin\Debug\Data Access Layer.dll
+D:\bank modify\Data Access Layer\bin\Debug\Data Access Layer.pdb
+D:\bank modify\Data Access Layer\bin\Debug\Common.dll
+D:\bank modify\Data Access Layer\bin\Debug\Newtonsoft.Json.dll
+D:\bank modify\Data Access Layer\bin\Debug\Common.pdb
+D:\bank modify\Data Access Layer\bin\Debug\Newtonsoft.Json.xml
+D:\bank modify\Data Access Layer\obj\Debug\Data Access Layer.csproj.AssemblyReference.cache
+D:\bank modify\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+D:\bank modify\Data Access Layer\obj\Debug\Data Acc.F8789B99.Up2Date
+D:\bank modify\Data Access Layer\obj\Debug\Data Access Layer.dll
+D:\bank modify\Data Access Layer\obj\Debug\Data Access Layer.pdb
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Data Access Layer.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Data Access Layer.pdb
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Common.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Newtonsoft.Json.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Common.pdb
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Newtonsoft.Json.xml
+D:\bank Managment System Project\Data Access Layer\obj\Debug\Data Access Layer.csproj.AssemblyReference.cache
+D:\bank Managment System Project\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+D:\bank Managment System Project\Data Access Layer\obj\Debug\Data Acc.F8789B99.Up2Date
+D:\bank Managment System Project\Data Access Layer\obj\Debug\Data Access Layer.dll
+D:\bank Managment System Project\Data Access Layer\obj\Debug\Data Access Layer.pdb
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Data Access Layer.dll.config
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Azure.Core.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Azure.Identity.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Extensions.Options.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Identity.Client.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Buffers.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.ClientModel.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Memory.Data.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Memory.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Numerics.Vectors.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Security.AccessControl.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Security.Principal.Windows.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Text.Encodings.Web.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Text.Json.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.ValueTuple.dll
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Azure.Core.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Azure.Identity.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Extensions.Options.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Identity.Client.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Buffers.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.ClientModel.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Memory.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Memory.Data.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Numerics.Vectors.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Security.AccessControl.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Security.Principal.Windows.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Text.Encodings.Web.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Text.Json.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\bank Managment System Project\Data Access Layer\bin\Debug\System.ValueTuple.xml

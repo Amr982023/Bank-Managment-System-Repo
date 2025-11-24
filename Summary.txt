@@ -1,0 +1,49 @@
+🔹 Banking Management System
+
+A secure and scalable Banking Management System built with 3-Tier Architecture (Presentation, Business, and Data Access Layers), designed to support core banking operations and external integrations via RESTful APIs.
+
+🚀 Key Features
+
+🧾 Client Management: create, update, delete, and advanced search with pagination.
+
+💳 Account Management: open/close accounts, balance tracking, and money transfers.
+
+💱 Currency Exchange: real-time exchange rates via a third-party API, with historical tracking.
+
+🔐 Security: password hashing, OTP verification, and role-based access control.
+
+📧 Email Integration: SMTP (Gmail) for password recovery and notifications on deposits, withdraws, and transfers.
+
+📊 Reporting: detailed transaction and activity reports.
+
+🗂️ System Enhancements: Windows Registry for persistent settings and a centralized Event Logger.
+
+⚙️ Configuration Management: App.config used to store Connection Strings and API Access Keys securely.
+
+🔄 Layered Architecture: used DTOs with Mapster for efficient object mapping and strict separation of concerns.
+
+⚡ Performance: leveraged Asynchronous Programming and Multi-threading to improve responsiveness and handle concurrent operations efficiently.
+
+🛠 Tech Stack
+
+💻 C# (WinForms) for front-end development.
+
+🗄️ SQL Server + T-SQL (Stored Procedures, Transactions).
+
+🔗 ADO.NET + Entity Layer for database communication.
+
+🖼️ Guna UI for a modern, responsive interface.
+
+🌍 Third-Party API integration for real-time currency exchange.
+
+⚙️ App.config for secure management of Connection Strings and API Keys.
+
+🎯 Objectives
+
+Provide a secure, user-friendly, and reliable banking system.
+
+Apply 3-Tier Architecture for scalability and maintainability.
+
+Improve performance and responsiveness through Asynchronous Programming and Multi-threading.
+
+Ensure extensibility for future Web and Mobile platforms.

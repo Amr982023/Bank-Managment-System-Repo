@@ -1,0 +1,154 @@
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\bin\Debug\MyBankSystemManagmentProject.exe.config
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\bin\Debug\MyBankSystemManagmentProject.exe
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\bin\Debug\MyBankSystemManagmentProject.pdb
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\bin\Debug\Business Layer.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\bin\Debug\Data Access Layer.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\bin\Debug\Business Layer.pdb
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\bin\Debug\Data Access Layer.pdb
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.Form1.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.Properties.Resources.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\Presenta.B0A29D85.Up2Date
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.exe
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.pdb
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.FormAddNewClient.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.FormShowClientList.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.LoginUserForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.FormFindClient.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.LoginRegistersForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.DeleteClientForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.UpdateClientForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.UpdateClientSubForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.DepositForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.WithDrawForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.TransferForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.TotalBalancesForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.TransferLogForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ShowUserListForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.AddNewUserForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.FindUserForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.UpdateUserForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.UpdateUserSubForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.DeleteUserForm.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\bin\Debug\Guna.UI2.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\bin\Debug\Common.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\bin\Debug\Common.pdb
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrAddNewClient.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrAddNewUser.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrUpdateClientSub.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrUpdateUserSub.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.test.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrlGeneralOperations.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrShowList.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrTransfer.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrDeposit_Withdraw.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrCurrencyExchange.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\bin\Debug\Newtonsoft.Json.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\bin\Debug\Newtonsoft.Json.xml
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrlMain.resources
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\bin\Debug\Mapster.Core.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\MyBankSystemManagmentProject\bin\Debug\Mapster.dll
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrAddNewClient.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrAddNewUser.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrCurrencyExchange.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrlGeneralOperations.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrlMain.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrShowList.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrTransfer.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrUpdateClientSub.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrUpdateUserSub.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrDeposit_Withdraw.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.Form1.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.LoginUserForm.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.Properties.Resources.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.exe
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.pdb
+D:\bank modify\MyBankSystemManagmentProject\bin\Debug\MyBankSystemManagmentProject.exe.config
+D:\bank modify\MyBankSystemManagmentProject\bin\Debug\MyBankSystemManagmentProject.exe
+D:\bank modify\MyBankSystemManagmentProject\bin\Debug\MyBankSystemManagmentProject.pdb
+D:\bank modify\MyBankSystemManagmentProject\bin\Debug\Business Layer.dll
+D:\bank modify\MyBankSystemManagmentProject\bin\Debug\Common.dll
+D:\bank modify\MyBankSystemManagmentProject\bin\Debug\Guna.UI2.dll
+D:\bank modify\MyBankSystemManagmentProject\bin\Debug\Mapster.Core.dll
+D:\bank modify\MyBankSystemManagmentProject\bin\Debug\Mapster.dll
+D:\bank modify\MyBankSystemManagmentProject\bin\Debug\Newtonsoft.Json.dll
+D:\bank modify\MyBankSystemManagmentProject\bin\Debug\Data Access Layer.dll
+D:\bank modify\MyBankSystemManagmentProject\bin\Debug\Business Layer.pdb
+D:\bank modify\MyBankSystemManagmentProject\bin\Debug\Common.pdb
+D:\bank modify\MyBankSystemManagmentProject\bin\Debug\Newtonsoft.Json.xml
+D:\bank modify\MyBankSystemManagmentProject\bin\Debug\Data Access Layer.pdb
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\Presenta.B0A29D85.Up2Date
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrManagment.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrAboutMe.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrAccounts.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrAccountStatusChange.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrCreditCard.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrDeactivateCard.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrIssueNewCard.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrlClientManagment.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrCashReserves.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.frmResetPassword.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.frmResetCode.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrAddNewAccount.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrViewAccount.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.frmShowAccount.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrViewClient.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.FormViewClient.resources
+D:\bank modify\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.Transactions.ctrShowtransactionLogs.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\MyBankSystemManagmentProject.exe.config
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\MyBankSystemManagmentProject.exe
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\MyBankSystemManagmentProject.pdb
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\Business Layer.dll
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\Common.dll
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\Guna.UI2.dll
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\Mapster.Core.dll
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\Mapster.dll
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\Newtonsoft.Json.dll
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\Data Access Layer.dll
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\Business Layer.pdb
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\Common.pdb
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\Newtonsoft.Json.xml
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\Data Access Layer.pdb
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrAddNewClient.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrAboutMe.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrAccounts.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrAccountStatusChange.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrAddNewAccount.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrCashReserves.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrCreditCard.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrDeactivateCard.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrIssueNewCard.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrlClientManagment.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrManagment.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrViewAccount.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrViewClient.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.FormViewClient.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.frmResetPassword.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.frmResetCode.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.frmShowAccount.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.Transactions.ctrShowtransactionLogs.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrAddNewUser.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrCurrencyExchange.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrlGeneralOperations.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrlMain.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrShowList.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrTransfer.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrUpdateClientSub.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrUpdateUserSub.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrDeposit_Withdraw.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.Form1.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.LoginUserForm.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.Properties.Resources.resources
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\Presenta.B0A29D85.Up2Date
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.exe
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.pdb
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\Business Layer.dll.config
+D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\Data Access Layer.dll.config

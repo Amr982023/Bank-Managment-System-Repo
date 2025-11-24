@@ -1,0 +1,47 @@
+D:\cyber security\fundamentals\back end Desktop\Projects\Business Layer\bin\Debug\Business Layer.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\Business Layer\bin\Debug\Business Layer.pdb
+D:\cyber security\fundamentals\back end Desktop\Projects\Business Layer\bin\Debug\Data Access Layer.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\Business Layer\bin\Debug\Data Access Layer.pdb
+D:\cyber security\fundamentals\back end Desktop\Projects\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+D:\cyber security\fundamentals\back end Desktop\Projects\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+D:\cyber security\fundamentals\back end Desktop\Projects\Business Layer\obj\Debug\Business.38778CEF.Up2Date
+D:\cyber security\fundamentals\back end Desktop\Projects\Business Layer\obj\Debug\Business Layer.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\Business Layer\obj\Debug\Business Layer.pdb
+D:\cyber security\fundamentals\back end Desktop\Projects\Business Layer\bin\Debug\Common.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\Business Layer\bin\Debug\Common.pdb
+D:\cyber security\fundamentals\back end Desktop\Projects\Business Layer\bin\Debug\Mapster.Core.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\Business Layer\bin\Debug\Mapster.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\Business Layer\bin\Debug\Newtonsoft.Json.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\Business Layer\bin\Debug\Newtonsoft.Json.xml
+D:\bank modify\Business Layer\bin\Debug\Business Layer.dll
+D:\bank modify\Business Layer\bin\Debug\Business Layer.pdb
+D:\bank modify\Business Layer\bin\Debug\Common.dll
+D:\bank modify\Business Layer\bin\Debug\Data Access Layer.dll
+D:\bank modify\Business Layer\bin\Debug\Mapster.Core.dll
+D:\bank modify\Business Layer\bin\Debug\Mapster.dll
+D:\bank modify\Business Layer\bin\Debug\Newtonsoft.Json.dll
+D:\bank modify\Business Layer\bin\Debug\Common.pdb
+D:\bank modify\Business Layer\bin\Debug\Data Access Layer.pdb
+D:\bank modify\Business Layer\bin\Debug\Newtonsoft.Json.xml
+D:\bank modify\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+D:\bank modify\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+D:\bank modify\Business Layer\obj\Debug\Business.38778CEF.Up2Date
+D:\bank modify\Business Layer\obj\Debug\Business Layer.dll
+D:\bank modify\Business Layer\obj\Debug\Business Layer.pdb
+D:\bank Managment System Project\Business Layer\bin\Debug\Business Layer.dll
+D:\bank Managment System Project\Business Layer\bin\Debug\Business Layer.pdb
+D:\bank Managment System Project\Business Layer\bin\Debug\Common.dll
+D:\bank Managment System Project\Business Layer\bin\Debug\Data Access Layer.dll
+D:\bank Managment System Project\Business Layer\bin\Debug\Mapster.Core.dll
+D:\bank Managment System Project\Business Layer\bin\Debug\Mapster.dll
+D:\bank Managment System Project\Business Layer\bin\Debug\Newtonsoft.Json.dll
+D:\bank Managment System Project\Business Layer\bin\Debug\Common.pdb
+D:\bank Managment System Project\Business Layer\bin\Debug\Data Access Layer.pdb
+D:\bank Managment System Project\Business Layer\bin\Debug\Newtonsoft.Json.xml
+D:\bank Managment System Project\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+D:\bank Managment System Project\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+D:\bank Managment System Project\Business Layer\obj\Debug\Business.38778CEF.Up2Date
+D:\bank Managment System Project\Business Layer\obj\Debug\Business Layer.dll
+D:\bank Managment System Project\Business Layer\obj\Debug\Business Layer.pdb
+D:\bank Managment System Project\Business Layer\bin\Debug\Business Layer.dll.config
+D:\bank Managment System Project\Business Layer\bin\Debug\Data Access Layer.dll.config

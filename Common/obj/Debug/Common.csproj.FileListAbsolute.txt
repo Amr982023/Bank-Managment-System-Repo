@@ -1,0 +1,18 @@
+D:\cyber security\fundamentals\back end Desktop\Projects\Common\bin\Debug\Common.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\Common\bin\Debug\Common.pdb
+D:\cyber security\fundamentals\back end Desktop\Projects\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\cyber security\fundamentals\back end Desktop\Projects\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\cyber security\fundamentals\back end Desktop\Projects\Common\obj\Debug\Common.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\Common\obj\Debug\Common.pdb
+D:\cyber security\fundamentals\back end Desktop\Projects\Common\bin\Debug\Newtonsoft.Json.dll
+D:\cyber security\fundamentals\back end Desktop\Projects\Common\bin\Debug\Newtonsoft.Json.xml
+D:\cyber security\fundamentals\back end Desktop\Projects\Common\obj\Debug\Common.csproj.Up2Date
+D:\bank modify\Common\bin\Debug\Common.dll
+D:\bank modify\Common\bin\Debug\Common.pdb
+D:\bank modify\Common\bin\Debug\Newtonsoft.Json.dll
+D:\bank modify\Common\bin\Debug\Newtonsoft.Json.xml
+D:\bank modify\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\bank modify\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\bank modify\Common\obj\Debug\Common.csproj.Up2Date
+D:\bank modify\Common\obj\Debug\Common.dll
+D:\bank modify\Common\obj\Debug\Common.pdb
