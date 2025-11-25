@@ -21,9 +21,7 @@ namespace MyBankSystemManagmentProject
     {
         public event Action OnClose;
         public enum enMode { DeleteClients, UpdateClients, FindClients, DeleteUsers, UpdateUsers, FindUsers ,FindAccount }
-
-        public delegate void CloseForm_Delegate();       
-
+  
         private enMode _Mode = enMode.FindClients;
 
         public enMode Mode
@@ -89,6 +87,7 @@ namespace MyBankSystemManagmentProject
             dgv_Search.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             rb_NationalID_UserName_AccountNumber.Checked = true;
             dgv_Search.AutoGenerateColumns = true;
+            OnClose += back;
         }
 
         void _LoadUpdateUserSub(string UserName)
@@ -202,7 +201,7 @@ namespace MyBankSystemManagmentProject
             {
                 if (Client.Delete())
                 {
-                    Client.CloseAccounts();
+                   // Client.CloseAccounts();
 
                     MessageBox.Show($"Client with National ID : {NationalID} deleted successfully.", "Deleted", MessageBoxButtons.OK);
                     RefreshPage();
@@ -210,6 +209,7 @@ namespace MyBankSystemManagmentProject
                 else
                 {
                     MessageBox.Show("Deletion failed.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    OnClose?.Invoke();
                 }
             }
         }
@@ -230,14 +230,15 @@ namespace MyBankSystemManagmentProject
             if (MessageBox.Show($"Are you sure you want to delete user with User Name: {UserName}?", "Delete", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 if (User.Delete())
-                    {
-                        MessageBox.Show($"User with User Name: {UserName} deleted successfully.", "Deleted", MessageBoxButtons.OK);
-                        RefreshPage();
-                    }
-                    else
-                    {
-                        MessageBox.Show("Deletion failed.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    }
+                {
+                    MessageBox.Show($"User with User Name: {UserName} deleted successfully.", "Deleted", MessageBoxButtons.OK);
+                    RefreshPage();
+                }
+                else
+                {
+                    MessageBox.Show("Deletion failed.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    OnClose?.Invoke();
+                }
             }
         }
 
@@ -271,7 +272,11 @@ namespace MyBankSystemManagmentProject
 
         private void btn_Back_Click(object sender, EventArgs e)
         {
-            //OnClose?.Invoke();
+            OnClose?.Invoke(); 
+        }
+
+        void back()
+        {
             clsGlobal.Form.LoadPage(clsGlobal.History.Peek());
             if (clsGlobal.History.Count > 1)
             {

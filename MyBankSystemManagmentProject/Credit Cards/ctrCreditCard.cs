@@ -15,12 +15,9 @@ namespace MyBankSystemManagmentProject
 {
     public partial class ctrCreditCard : UserControl
     {
-
-
-        public enum enStatus { Active = 1, PendingActivation = 2, Frozen = 3, Lost = 4, Expired = 5, Cancelled = 6 }
-        public enum enType { DebitCard = 1, CreditCard = 2, PrepaidCard = 3, ChargeCard = 4 }
-
-        public enum enNetworkType { Visa = 1, MasterCard = 2, AmericanExpress = 3, Discover = 4, UnionPay = 5 }
+        private enum enStatus { Active = 1, PendingActivation = 2, Frozen = 3, Lost = 4, Expired = 5, Cancelled = 6 }
+        private enum enType { DebitCard = 1, CreditCard = 2, PrepaidCard = 3, ChargeCard = 4 }
+        private enum enNetworkType { Visa = 1, MasterCard = 2, AmericanExpress = 3, Discover = 4, UnionPay = 5 }
 
         clsAccounts _Account;
         clsCreditCard _card;
@@ -113,7 +110,7 @@ namespace MyBankSystemManagmentProject
             btn_Renew.Visible = true;
         }
 
-        private Image GetNetworkLogo(int networkTypeId)
+        private Image _GetNetworkLogo(int networkTypeId)
         {
             switch ((enNetworkType)networkTypeId)
             {
@@ -126,7 +123,7 @@ namespace MyBankSystemManagmentProject
             }
         }
 
-        private string GetCardTypeName(int typeId)
+        private string _GetCardTypeName(int typeId)
         {
             switch ((enType)typeId)
             {
@@ -157,7 +154,7 @@ namespace MyBankSystemManagmentProject
             _card = clsCreditCard.GetCardByAccountID(AccountID);
             clsClient Client = clsClient.Find(ClientID);
 
-            lbl_CardType.Text = GetCardTypeName(_card.Card_Type_ID);
+            lbl_CardType.Text = _GetCardTypeName(_card.Card_Type_ID);
             lbl_CustomerName.Text = Client.FirstName + " " + Client.SecondName + " " + Client.LastName;
             if (_card.Expiration_Date.HasValue)
                 lbl_ExpireDate.Text = _card.Expiration_Date.Value.ToString("MM/yy");
@@ -166,7 +163,7 @@ namespace MyBankSystemManagmentProject
 
             lbl_CardNumber.Text = string.Join("    ", Enumerable.Range(0, _card.Card_Number.Length / 4).Select(i => _card.Card_Number.Substring(i * 4, 4)));
 
-            pb_Network.Image = GetNetworkLogo(_card.Card_Network_ID);
+            pb_Network.Image = _GetNetworkLogo(_card.Card_Network_ID);
 
             HandleStatus(_card.Card_Status_ID);
         }
@@ -228,8 +225,7 @@ namespace MyBankSystemManagmentProject
                 btn_Deactivate.Enabled = false;
                 btn_Renew.Enabled = false;
                 btn_Reissue.Enabled = true;
-            }
-        
+            }      
         }
 
         void RefreshPage()
@@ -237,18 +233,15 @@ namespace MyBankSystemManagmentProject
             _Account = clsAccounts.GetAccountByAccountNumber(txt_Search.Text.Trim());
 
             if (_Account != null)
-            {
-                
+            {               
                 pb_NotFound.Visible = false;
                 HandleCardAndStatus(_Account.ID, _Account.ClientID);
                 Visibilty_On();
             }
             else
-            {
-               
+            {             
                 pb_NotFound.Visible = true;
                 Visibilty_Off();
-
             }
         }
 

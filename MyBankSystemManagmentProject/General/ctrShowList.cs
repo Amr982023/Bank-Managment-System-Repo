@@ -14,8 +14,7 @@ namespace MyBankSystemManagmentProject
     public partial class ctrShowList : UserControl
     {     
         public ctrShowList()
-        {
-           
+        {   
             InitializeComponent();
         }
 
@@ -73,7 +72,6 @@ namespace MyBankSystemManagmentProject
 
         private async void btn_Previous_Click(object sender, EventArgs e)
         {
-
             if (CurrentPageNumber > 1)
             {
                 CurrentPageNumber--;
@@ -91,8 +89,7 @@ namespace MyBankSystemManagmentProject
         }
 
         private void btn_Back_Click(object sender, EventArgs e)
-        {
-            //OnClose?.Invoke();
+        {  
             _Back();
         }
 

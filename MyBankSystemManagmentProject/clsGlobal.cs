@@ -13,7 +13,7 @@ namespace MyBankSystemManagmentProject
     public class clsGlobal
     {
         public static clsUser CurrentUser;
-        public static Form1 Form;
+        public static MainForm Form;
         public static int LoginID;
         public static Stack<UserControl> History = new Stack<UserControl>(); 
         public static ctrlMain MainControl = null;

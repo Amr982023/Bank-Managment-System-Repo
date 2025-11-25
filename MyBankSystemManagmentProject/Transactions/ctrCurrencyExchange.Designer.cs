@@ -161,7 +161,7 @@
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage1.Size = new System.Drawing.Size(1443, 712);
             this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "Currency Exchange Rate in USD";
+            this.tabPage1.Text = "Currency Exchange";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
             // txt_DestinationAmount

@@ -142,7 +142,6 @@ D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSy
 D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrUpdateClientSub.resources
 D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrUpdateUserSub.resources
 D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.ctrDeposit_Withdraw.resources
-D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.Form1.resources
 D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.LoginUserForm.resources
 D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.Properties.Resources.resources
 D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
@@ -152,3 +151,4 @@ D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSy
 D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.pdb
 D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\Business Layer.dll.config
 D:\bank Managment System Project\MyBankSystemManagmentProject\bin\Debug\Data Access Layer.dll.config
+D:\bank Managment System Project\MyBankSystemManagmentProject\obj\Debug\MyBankSystemManagmentProject.MainForm.resources

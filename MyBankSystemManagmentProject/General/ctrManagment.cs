@@ -19,6 +19,11 @@ namespace MyBankSystemManagmentProject
 
         private void btn_Back_Click(object sender, EventArgs e)
         {
+            Back();
+        }
+
+        void Back()
+        {
             clsGlobal.Form.LoadPage(clsGlobal.History.Peek());
             if (clsGlobal.History.Count > 1)
             {

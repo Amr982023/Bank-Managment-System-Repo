@@ -35,7 +35,7 @@ namespace MyBankSystemManagmentProject
             {
                clsGlobal.CurrentUser = User;
                 this.Hide();
-                Form1 Form = new Form1(this);
+                MainForm Form = new MainForm(this);
                 clsGlobal.Form = Form;
                 LoginID = clsLoginLogs.Save(User.ID);
                 if (LoginID != 0)

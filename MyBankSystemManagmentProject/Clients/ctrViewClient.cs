@@ -20,7 +20,6 @@ namespace MyBankSystemManagmentProject
             InitializeComponent();
         }
 
-
         public string NationalID
         {
             set { FillInformations(value); }
@@ -62,6 +61,5 @@ namespace MyBankSystemManagmentProject
 
         }
 
-        
     }
 }

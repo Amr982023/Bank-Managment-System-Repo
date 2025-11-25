@@ -14,7 +14,7 @@ using MyBankSystemManagmentProject.Transactions;
 
 namespace MyBankSystemManagmentProject
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
 
         enum enPermission {enAddNewClient=1,enShowClientList=2,enDeleteClient=4,enUpdateclient=8,enFindClient=16,enTransaction=32,enManageUsers=64,enLoginRegisters=128,enCurrencyExchange=256,enManagementDashBoard=512}
@@ -22,7 +22,7 @@ namespace MyBankSystemManagmentProject
         LoginUserForm loginUserForm;
         public event Action onLoad;
 
-        public Form1(LoginUserForm frm)
+        public MainForm(LoginUserForm frm)
         {
             this.loginUserForm = frm;
             InitializeComponent();
@@ -59,7 +59,7 @@ namespace MyBankSystemManagmentProject
                 var permission = kvp.Key;
                 var button = kvp.Value;
             
-                // لو ال bit مش موجود → disable
+                //disable if not available
                 button.Enabled = (Permission_Num & (int)permission) != 0;
             }
 
